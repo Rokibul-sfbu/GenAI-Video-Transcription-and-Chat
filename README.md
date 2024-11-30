@@ -21,8 +21,9 @@ Application Purpose
 The chatbot is designed to transcribe video content and answer questions related to the video, Providing relevant timestamps from the source.
 
 Steps to Build and Run the Application
+
   1. Clone Repository: Clone the project's repository using Git.
   
   2. Set API Keys
   
-  3. Build and Run:
+  3. Build and Run
