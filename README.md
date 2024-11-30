@@ -8,13 +8,13 @@ Pinecone, and Retrieval-Augmented Generation.
 
 Prerequisites
 
-   OpenAI API Key [https://platform.openai.com/api-keys]
+    1. OpenAI API Key [https://platform.openai.com/api-keys]
   
-   Pinecone API Key [https://app.pinecone.io]
+    2. Pinecone API Key [https://app.pinecone.io]
   
-   Latest version of Docker Desktop
+    3. Latest version of Docker Desktop
   
-   Git client
+    4. Git client
 
 Application Purpose
 
@@ -23,6 +23,6 @@ The chatbot is designed to transcribe video content and answer questions related
 Steps to Build and Run the Application
   1. Clone Repository: Clone the project's repository using Git.
   
-  2. 2. Set API Keys
+  2. Set API Keys
   
   3. Build and Run:
